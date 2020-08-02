@@ -1,0 +1,34 @@
+body {
+  padding: 3% 10%;
+}
+hr {
+  /* border-style: groove; */
+  border-width: 2.5px;
+  margin: 2% 0% 1.5% 0%;
+}
+
+.heading {
+  color: #00005c;
+  margin: 0%;
+}
+
+.row {
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
+.text {
+  font-size: 4rem;
+}
+
+.title-image {
+  width: 10%;
+}
+
+.title-image:hover {
+
+}
+
+.social-network {
+
+}

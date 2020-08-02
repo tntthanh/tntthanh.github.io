@@ -1,0 +1,56 @@
+body {
+  padding: 1% 10%;
+}
+
+a {
+  font-size: 2rem;
+}
+hr {
+  /* border-style: groove; */
+  border-width: 2.5px;
+  margin: 2% 0% 1.5% 0%;
+}
+
+.heading {
+  /* color: #ca5116; */
+  margin: 0%;
+}
+
+.completed {
+  color: #00005c;
+  margin-left: 5%;
+}
+
+.completed:hover {
+  color: blue;
+}
+
+.inProgress{
+  color: #d63447;
+  margin-left: 5%;
+}
+
+.inProgress:hover {
+  color: red;
+}
+
+.row {
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
+.text {
+  font-size: 4rem;
+}
+
+.title-image {
+  width: 10%;
+}
+
+.title-image:hover {
+  width: 12%;
+}
+
+.social-network {
+
+}

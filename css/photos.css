@@ -1,0 +1,18 @@
+body {
+  padding: 3% 10%;
+}
+hr {
+  /* border-style: groove; */
+  border-width: 2.5px;
+}
+.title-image {
+  width: 100%;
+}
+.row {
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
+.text {
+  font-size: 4rem;
+}
