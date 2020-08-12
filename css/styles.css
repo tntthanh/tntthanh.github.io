@@ -13,6 +13,8 @@ p {
   color: #000;
 }
 
+
+
 .feature-title:hover {
   content: url("images/certificates/Electronics.jpg") no-repeat;
 }
@@ -186,6 +188,10 @@ p {
     text-align: center;
   }
 
+  .video {
+    width: 30rem;
+    height: 10rem;
+  }
   .title-image {
     position: static;
     transform: rotate(0);
@@ -194,6 +200,10 @@ p {
 }
 
 @media (max-width: 1500px) {
+  .video {
+    width: 50rem;
+    height: 30rem;
+  }
   .title-image {
     position: static;
     transform: rotate(0);
