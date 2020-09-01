@@ -189,6 +189,9 @@ p {
   }
 
   .video {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    padding-top: -100rem;
     width: 30rem;
     height: 10rem;
   }
