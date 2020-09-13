@@ -14,4 +14,3 @@ document.getElementsByClassName("link")[0].href="http://localhost:"+localHost+a;
 document.getElementsByClassName("link")[1].href="http://localhost:"+localHost+b;
 document.getElementsByClassName("link")[2].href="http://localhost:"+localHost+c;
 document.getElementsByClassName("link")[3].href="http://localhost:"+localHost+d;
-document.getElementsByClassName("link")[4].href="http://localhost:"+localHost+e;
