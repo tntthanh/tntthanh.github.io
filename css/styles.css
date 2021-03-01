@@ -23,6 +23,17 @@ p {
   text-align: center;
 }
 
+.left {
+  text-align: left;
+}
+
+.row {
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .section {
   text-align: center;
 }
