@@ -164,7 +164,7 @@ p {
 .big-heading {
   font-family: "Montserrat-Black", sans-serif;
   font-weight: 900;
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.2;
 }
 
@@ -172,7 +172,7 @@ p {
   /* font-family: "Montserrat-Black", sans-serif; */
   font-family: "Ubuntu", sans-serif;
   font-weight: 900;
-  font-size: 1.5rem;
+  font-size: 2rem;
   line-height: 1.5;
   /* padding: 1% 0%; */
 }
@@ -203,7 +203,7 @@ p {
 
 .navbar-brand {
   font-family: "Ubuntu";
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 
@@ -212,7 +212,7 @@ p {
 }
 
 .nav-link {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   font-family: "Montserrat-Light";
 }
 
@@ -234,7 +234,7 @@ p {
 
 /* Title Image */
 .title-image {
-  width: 22rem;
+  width: 25rem;
   transform: rotate(0deg);
   position: inherit;
   /* top: -14%;
@@ -260,7 +260,7 @@ p {
 .icon {
   color: #f4a548;
   margin-bottom: 1rem;
-  font-size: 8rem;
+  font-size: 7.5rem;
 }
 
 /* .icon:hover {
