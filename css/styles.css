@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Montserrat";
   text-align: center;
@@ -6,6 +9,17 @@ body {
   /* transform: scale(0.9);
   transform-origin: 0 0;
   // add prefixed versions too. */
+}
+
+img {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.certi{
+  margin: 0;
+  padding: 0;
 }
 
 hr {
@@ -60,11 +74,8 @@ p {
   position: relative;
   padding-top: 4rem;
   padding-bottom: 0.5rem;
-  text-align: left;
-  margin-left: 2rem;
-}
-.left {
-  text-align: left;
+  text-align: center;
+  margin-left: 0rem;
 }
 
 .row {
@@ -86,9 +97,12 @@ p {
 .container-fluid-2 {
   padding: 0% 5% 0% 5%;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .achievement {
+
   width: 18rem;
   height: auto;
   transform: rotate(0deg);
@@ -229,7 +243,7 @@ p {
 .icon {
   color: #f4a548;
   margin-bottom: 1rem;
-  font-size: 9rem;
+  font-size: 8.2rem;
 }
 
 /* .icon:hover {
