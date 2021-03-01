@@ -12,10 +12,61 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 780;
 }
 
-p {
-  color: #000;
+h3 {
+  /* padding-top: 1.75rem; */
+  text-align: center;
+  position: inherit;
 }
 
+p {
+  color: #000;
+  text-align: center;
+}
+
+.section {
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 0% 10% 0% 10%;
+}
+
+.container-fluid-2 {
+  padding: 0% 5% 0% 5%;
+  text-align: center;
+}
+
+.achievement {
+  width: 18rem;
+  height: auto;
+  transform: rotate(0deg);
+  position: relative;
+  /* top: -14%;
+  right: 30%; */
+  box-shadow: 8px 8px 8px #bb3b0e;
+  margin-bottom: 1.75rem;
+  text-align: center;
+
+}
+
+.achievement:hover {
+  width: 30rem;
+  height: auto;
+  z-index: 100
+}
+
+.circle {
+  border-radius: 100%;
+  width: 15rem;
+  height: 15rem;
+}
+
+.circle:hover {
+  border-radius: 100%;
+  width: 30rem;
+  height: 30rem;
+  z-index: 100
+}
 
 
 .feature-title:hover {
@@ -50,9 +101,7 @@ p {
 }
 
 /* Containers */
-.container-fluid {
-  padding: 0% 10% 0% 10%;
-}
+
 
 /* Sections */
 .colored-section {
