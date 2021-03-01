@@ -219,7 +219,10 @@ p {
 /* Buttons */
 .download-button {
   margin: 5% 3% 5% 0;
+
+  cursor: pointer;
 }
+
 
 /* Title Section */
 #title {
@@ -234,7 +237,7 @@ p {
 
 /* Title Image */
 .title-image {
-  width: 25rem;
+  width: 21rem;
   transform: rotate(0deg);
   position: inherit;
   /* top: -14%;
@@ -247,6 +250,10 @@ p {
 #features {
   position: relative;
 
+}
+
+.email {
+  color: #4a3933;
 }
 
 .feature-title {
