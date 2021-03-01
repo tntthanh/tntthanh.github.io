@@ -120,7 +120,7 @@ p {
 
 .achievement {
 
-  width: 18rem;
+  width: 20rem;
   height: auto;
   transform: rotate(0deg);
   position: relative;
@@ -133,6 +133,26 @@ p {
 }
 
 .achievement:hover {
+  width: 30rem;
+  height: auto;
+  z-index: 100
+}
+
+.certificate {
+
+  width: 20rem;
+  height: auto;
+  transform: rotate(0deg);
+  position: relative;
+  /* top: -14%;
+  right: 30%; */
+  box-shadow: 8px 8px 8px #709fb0;
+  margin-bottom: 1.75rem;
+  text-align: center;
+
+}
+
+.certificate:hover {
   width: 30rem;
   height: auto;
   z-index: 100
