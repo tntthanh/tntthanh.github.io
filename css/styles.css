@@ -1,9 +1,41 @@
 body {
   font-family: "Montserrat";
   text-align: center;
+  margin: 0;
+  padding: 0;
   /* transform: scale(0.9);
   transform-origin: 0 0;
   // add prefixed versions too. */
+}
+
+hr {
+  border-style: inset;
+  border-width: 1px;
+}
+.section {
+  margin: 0;
+  padding: 0;
+}
+
+.feature-box {
+  margin: 0;
+  padding: 0;
+}
+
+.col-lg-3 {
+  margin: 0;
+  padding: 0;
+}
+
+.col-sm-6 {
+  margin: 0;
+  padding: 0;
+}
+
+.white-section {
+  padding-bottom: 0;
+  margin-bottom: 0;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -23,6 +55,14 @@ p {
   text-align: center;
 }
 
+.sub-heading {
+  font-weight: 1000;
+  position: relative;
+  padding-top: 4rem;
+  padding-bottom: 0.5rem;
+  text-align: left;
+  margin-left: 2rem;
+}
 .left {
   text-align: left;
 }
@@ -39,7 +79,8 @@ p {
 }
 
 .container-fluid {
-  padding: 0% 10% 0% 10%;
+  padding: 0% 12% 0% 12%;
+  margin: auto;
 }
 
 .container-fluid-2 {
@@ -188,12 +229,12 @@ p {
 .icon {
   color: #f4a548;
   margin-bottom: 1rem;
-  font-size: 100px;
+  font-size: 9rem;
 }
 
-.icon:hover {
+/* .icon:hover {
   color: #fc7e2f;
-}
+} */
 
 /* Testimonial Section */
 #testimonials {
