@@ -69,7 +69,7 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat-Bold", sans-serif;
   /* adding 'font-weight' in case some font not working exactly 'bold' or 'black' property! */
-  font-weight: 780;
+  font-weight: 800;
 }
 
 h3 {
@@ -79,6 +79,7 @@ h3 {
 }
 
 p {
+  /* font-size: 1.2rem; */
   color: #000;
   text-align: center;
 }
@@ -120,7 +121,7 @@ p {
 
 .achievement {
 
-  width: 20rem;
+  width: 22rem;
   height: auto;
   transform: rotate(0deg);
   position: relative;
@@ -140,7 +141,7 @@ p {
 
 .certificate {
 
-  width: 20rem;
+  width: 22rem;
   height: auto;
   transform: rotate(0deg);
   position: relative;
