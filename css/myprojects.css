@@ -25,6 +25,17 @@ hr {
   color: blue;
 }
 
+.tabin1 {
+  /* color: #00005c; */
+  margin-left: 5%;
+  margin-bottom: 1.5%;
+}
+
+.tabin2 {
+  /* color: #00005c; */
+  margin-left: 3%;
+}
+
 .inProgress{
   color: #d63447;
   margin-left: 5%;
