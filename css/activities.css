@@ -5,8 +5,14 @@ hr {
   /* border-style: groove; */
   border-width: 2.5px;
 }
+.title-image-pro {
+  width: 80%;
+  border-radius: 5%;
+}
 .title-image {
   width: 90%;
+  padding-bottom: 1.5rem;
+  border-radius: 2%;
 }
 .row {
   margin-bottom: 3%;
@@ -15,4 +21,27 @@ hr {
 
 .text {
   font-size: 4rem;
+}
+
+.heading {
+  color: #00007e;
+  margin: 0%;
+}
+
+.heading2 {
+  color: #0000ac;
+  margin: 0%;
+}
+
+.text2 {
+  font-size: 2rem;
+}
+
+.row2 {
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
+.title-image2 {
+  width: 10%;
 }
