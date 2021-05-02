@@ -111,14 +111,16 @@ p {
 
 .white-section {
   margin-top: -0.8rem;
-  margin-bottom: -1.5rem;
+  margin-bottom: -5rem;
 
 
 }
 .container-fluid {
-  padding: 0% 12% 0% 12%;
+  margin-top: -1rem;
+  padding: 0% 11% 0% 15%;
   padding-bottom: -20rem;
-  margin-bottm: -15rem;
+  padding-top: -10rem;
+  /* margin-bottom: -2rem; */
 }
 
 .container-fluid-2 {
@@ -271,10 +273,12 @@ p {
 }
 
 .quotes{
+  /* font-family: 'Caveat'; */
+  font-family: 'Satisfy';
   text-align: justify;
-  font-size: 1.95rem;
-  margin-left: -1rem;
-  margin-top: 2.5rem;
+  font-size: 2rem;
+  margin-left: -1.5rem;
+  margin-top: 4.5rem;
   margin-bottom: -1rem;
   /* color: #fff; */
   /* font-style: italic; */
@@ -382,13 +386,14 @@ p {
   .container-fluid {
     padding: 0% 12% 0% 12%;
     padding-bottom: -20rem;
-    margin-bottm: -15rem;
+    margin-bottom: -15rem;
   }
 
   .video {
     position: relative;
     margin-bottom: 20px;
     padding-bottom: 20px;
+
     width: 50rem;
     height: 10rem;
 
@@ -407,7 +412,7 @@ p {
     visibility: hidden;
     text-align: justify;
     font-size: 1rem;
-    margin-left: -0rem;
+    margin-left: -2rem;
     margin-bottom: -1rem;
     /* color: #fff; */
     /* font-style: italic; */
