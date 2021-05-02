@@ -88,7 +88,7 @@ p {
   font-weight: 1000;
   position: relative;
   padding-top: 4rem;
-  padding-bottom: 0.5rem;
+  /* padding-bottom: 0.5rem; */
   text-align: left;
   margin-left: 2rem;
 }
@@ -373,6 +373,7 @@ p {
     position: relative;
     width: 50rem;
     height: 30rem;
+    margin-top: 1rem;
 
   }
   .title-image {
