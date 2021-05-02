@@ -281,14 +281,15 @@ p {
 
 /* Title Image */
 .title-image {
-  width: 21rem;
+  width: 23rem;
   transform: rotate(0deg);
   position: inherit;
   /* top: -14%;
   right: 30%; */
   border-radius: 100%;
   box-shadow: 8px 8px 8px #bb3b0e;
-  margin-left: -2.5rem;
+  margin-left: -5.7rem;
+
 }
 
 /* Features Section */
@@ -374,6 +375,7 @@ p {
 @media (max-width: 1028px) {
   #title {
     text-align: center;
+
   }
 
   .video {
@@ -388,7 +390,18 @@ p {
     position: static;
     transform: rotate(0);
     width: 75%;
-    margin-bottom: 2.5rem;
+
+    margin-bottom: -1rem;
+  }
+
+  .quotes{
+    visibility: hidden;
+    text-align: justify;
+    font-size: 1rem;
+    margin-left: -0rem;
+    margin-bottom: -1rem;
+    /* color: #fff; */
+    /* font-style: italic; */
   }
 }
 
