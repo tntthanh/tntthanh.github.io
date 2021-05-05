@@ -27,7 +27,7 @@ img {
 hr {
   border-style: inset;
   border-width: 1px;
-  margin: 1% 5% 0% 10%
+  margin: 1% 0% 0.5% 0%
 }
 .section {
   margin: 0;
@@ -124,9 +124,9 @@ p {
 }
 
 .container-fluid-2 {
-  padding: 0% 5% 0% 5%;
+  padding: 0% 5% 8% 5%;
   padding-bottom: -20rem;
-  margin-bottm: -15rem;
+  margin-bottom: -10rem;
   text-align: center;
   display: flex;
   justify-content: center;
@@ -425,6 +425,7 @@ p {
     width: 50rem;
     height: 30rem;
     margin-top: 1rem;
+    margin-bottom: 25rem;
 
   }
   .title-image {
@@ -432,4 +433,19 @@ p {
     transform: rotate(0);
     width: 75%;
   }
+  .container-fluid{
+    padding: 25% 12% 0% 12%;
+    padding-bottom: -20rem;
+    margin-bottom: -15rem;
+  }
+
+  .container-fluid-2 {
+    padding: 25% 5% 1% 5%;
+    padding-bottom: -20rem;
+    margin-bottom: -10rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+
 }
