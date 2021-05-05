@@ -5,6 +5,13 @@ body {
 a {
   font-size: 2rem;
 }
+
+p {
+  padding: 1% 10%;
+  font-size: 1.5rem;
+  color: #000f;
+}
+
 hr {
   /* border-style: groove; */
   border-width: 2.5px;
