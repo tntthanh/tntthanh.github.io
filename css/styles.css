@@ -227,7 +227,7 @@ p {
 
 .text3 {
   text-align: center;
-  font-size: 0.85rem;
+  font-size: 1rem;
 }
 
 .title-image2 {
@@ -469,5 +469,4 @@ p {
     display: flex;
     justify-content: center;
   }
-
 }
