@@ -111,7 +111,7 @@ p {
 }
 
 .white-section {
-  margin-top: -0.8rem;
+  margin-top: -1.5rem;
   margin-bottom: -5rem;
 
 
@@ -355,6 +355,11 @@ p {
 #textOrganization {
   color: #000;
 }
+/*
+#Organization {
+  margin-bottom: -15rem;
+  padding-bottom: -15rem
+} */
 
 .testimonial-text {
   font-size: 3rem;
