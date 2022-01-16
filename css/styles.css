@@ -11,13 +11,37 @@ body {
   // add prefixed versions too. */
 }
 
+/* Title Image */
+.title-image {
+  width: 20rem;
+  transform: rotate(0deg);
+  position: inherit;
+  /* top: -14%;
+  right: 30%; */
+  border-radius: 100%;
+  box-shadow: 8px 8px 8px #bb3b0e;
+  margin-left: -8rem;
+
+}
+
+.h_iframe {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+}
 img {
   text-align: center;
   margin: 0;
   padding: 0;
 }
 
-
+.bottom {
+  display: flex;
+  position:absolute;                 
+  bottom:0;                         
+  left:0;                         
+}
 
 .certi{
   margin: 0;
@@ -155,7 +179,7 @@ p {
 
 .achievement {
 
-  width: 22rem;
+  width: 20rem;
   height: auto;
 
   position: inherit;
@@ -176,7 +200,7 @@ p {
 
 .certificate {
 
-  width: 22rem;
+  width: 20rem;
   height: auto;
   transform: rotate(0deg);
   position: relative;
@@ -330,18 +354,7 @@ p {
   /* font-style: italic; */
 }
 
-/* Title Image */
-.title-image {
-  width: 23rem;
-  transform: rotate(0deg);
-  position: inherit;
-  /* top: -14%;
-  right: 30%; */
-  border-radius: 100%;
-  box-shadow: 8px 8px 8px #bb3b0e;
-  margin-left: -8rem;
 
-}
 
 /* Features Section */
 #features {
