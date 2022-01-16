@@ -443,6 +443,20 @@ p {
   margin: 20px 10px;
 }
 
+.video {
+  position: relative;
+
+
+  width:80vw;
+  height:53vw;
+
+}
+
+.project-video {
+  width:35vw;
+  height:23.3vw;
+}
+
 @media (max-width: 1208px) {
   #title {
     text-align: center;
@@ -455,45 +469,27 @@ p {
     margin-bottom: -15rem;
   }
 
-  .video {
-    position: relative;
-    margin-bottom: 20px;
-    padding-bottom: 20px;
 
-    width: 50rem;
-    height: 10rem;
-
-  }
   .title-image {
     position: static;
     transform: rotate(0);
     width: 75%;
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
     margin-left: -1.7rem;
 
     margin-bottom: 1rem;
   }
-
-  .quotes{
-    visibility: hidden;
-    text-align: justify;
-    font-size: 1rem;
-    margin-left: -2rem;
-    margin-bottom: -1rem;
-    /* color: #fff; */
-    /* font-style: italic; */
-  }
 }
 
 @media (max-width: 1500px) {
-  .video {
+  /* .video {
     position: relative;
     width: 50rem;
     height: 30rem;
     margin-top: 1rem;
     margin-bottom: 25rem;
 
-  }
+  } */
   .title-image {
     position: static;
     transform: rotate(0);
